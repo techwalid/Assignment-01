@@ -27,7 +27,7 @@ section{
 body{
     margin-left: 7%;
     margin-top: 5%;
-    /* margin-right: 2%; */
+   
 }
 .btn{
     font-size: 220%;
@@ -39,3 +39,17 @@ body{
     border-radius: 8px;
     border: 3px solid black;
 }
+.Ignored{
+    font-size: 450%;
+    color: rgb(0, 0, 0);
+    
+}
+footer p{
+    text-align: center;
+}
+footer h3{
+    text-align: center;
+    
+}
+  
+    
